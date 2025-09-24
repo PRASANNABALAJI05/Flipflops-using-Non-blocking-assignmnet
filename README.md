@@ -220,6 +220,7 @@ endmodule
 
 <img width="1918" height="1079" alt="D_FF_B" src="https://github.com/user-attachments/assets/dc734064-d7af-4e0f-9c47-3d9245910569" />
 ---
+
 ### T Flip-Flop (Non Blocking)
 ```verilog
 module T_FF_B (
@@ -233,6 +234,7 @@ module T_FF_B (
     end
 endmodule
 ```
+
 ### T Flip-Flop Test bench 
 ```verilog
 
